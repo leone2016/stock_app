@@ -14,10 +14,10 @@ pnpm dev
 bun dev
 ```
 
-### Install dependencies
+### Install dependencyies
 
 ```bash
-npx shadcn@latest init
+ npx shadcn@latest init 
 ```
 
 ### Add components
@@ -26,3 +26,7 @@ npx shadcn@latest add button
 ```
 
 https://jsmastery.com/video-kit/7df14775-f594-4367-9941-9abce7d82de2?utm_source=youtube&utm_campaign=stocks-inngest
+
+### Snippets
+* Modern React Snippets
+  * https://marketplace.visualstudio.com/items?itemName=AndreasPizsa.modern-react-snippets
