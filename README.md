@@ -23,6 +23,21 @@ bun dev
 ### Add components
 ```bash
 npx shadcn@latest add button
+
+```
+
+[dropdown-menu](https://ui.shadcn.com/docs/components/dropdown-menu)
+```bash
+npx shadcn@latest add dropdown-menu
+```
+
+```bash
+npx shadcn@latest add avatar
+```
+
+
+
+
 ```
 
 https://jsmastery.com/video-kit/7df14775-f594-4367-9941-9abce7d82de2?utm_source=youtube&utm_campaign=stocks-inngest
