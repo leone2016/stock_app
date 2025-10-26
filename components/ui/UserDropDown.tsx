@@ -57,6 +57,7 @@ const UserDropDown = () => {
                 <DropdownMenuSeparator className="sm:hidden "/>
 
                 <nav className="sm:hidden">
+                    aqui lore
                     <NavItems />
                 </nav>
                 <DropdownMenuSeparator />
