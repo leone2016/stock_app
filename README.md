@@ -37,18 +37,14 @@ npx shadcn@latest add avatar
 
 
 
+### Resources
+* [JSMastery](https://jsmastery.com/video-kit/7df14775-f594-4367-9941-9abce7d82de2?utm_source=youtube&utm_campaign=stocks-inngest)
 
-```
-
-https://jsmastery.com/video-kit/7df14775-f594-4367-9941-9abce7d82de2?utm_source=youtube&utm_campaign=stocks-inngest
 
 ### Snippets
 * Modern React Snippets
   * https://marketplace.visualstudio.com/items?itemName=AndreasPizsa.modern-react-snippets
 
-
-
-```
 
 Time Stamps:
 
