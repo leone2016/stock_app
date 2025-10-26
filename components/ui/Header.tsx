@@ -8,7 +8,7 @@ const Header = () => {
     return (
         <header className="sticky top-0 header">
             <div className="container header-wrapper">
-                <Link rel="stylesheet" href="/">
+                <Link href="/">
                     <Image alt="Signalist logo" src="/assets/icons/logo.svg"
                            width={140}
                            height={32}
